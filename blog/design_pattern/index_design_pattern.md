@@ -1,0 +1,1 @@
+- [设计模式 - 访问者模式](http://ashman.top/blog/design_pattern/visitor_pattern)
